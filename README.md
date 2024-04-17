@@ -1,2 +1,2 @@
 # Cirrhosis
-Cirrhosis Patient Survival Prediction Dataset for Machine Learning Project
+Cirrhosis Patient Survival Prediction Dataset for Machine Learning Project Midterm
